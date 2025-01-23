@@ -26,6 +26,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@amjadsh97/brand-openedx": "^1.0.8",
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/browserslist-config": "^1.1.0",
     "@edx/frontend-enterprise-hotjar": "3.0.0",

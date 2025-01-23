@@ -66,3 +66,11 @@ $input-focus-box-shadow: $input-box-shadow; // hack to get upgrade to paragon 4.
     overflow: hidden;
   }
 }
+
+
+@import '~@amjadsh97/brand-openedx/paragon/overrides';
+@import '~@amjadsh97/brand-openedx/paragon/brand';
+@import '~@amjadsh97/brand-openedx/paragon/fonts';
+@import '~@amjadsh97/brand-openedx/paragon/variables';
+@import '~@amjadsh97/brand-openedx/paragon/types';
+@import '~@amjadsh97/brand-openedx/paragon/account';
